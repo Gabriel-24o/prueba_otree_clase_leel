@@ -47,7 +47,8 @@ def set_payoffs(group: Group):
 
 # PAGES
 class Introduction(Page):
-    pass
+    def is_displayed(self):
+        return True 
 
 
 class Offer(Page):

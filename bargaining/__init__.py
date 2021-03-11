@@ -4,7 +4,8 @@ c = Currency
 
 
 doc = """
-Este es una aplicacion de prueba de otree que consiste en que hay jugadores negociando entre si
+Este es una aplicacion de prueba de otree que consiste en que hay jugadores negociando entre si 
+mckdmkdm
 """
 
 
